@@ -1,4 +1,4 @@
-# Kaushik-Das
+# Hi!!! I'm Kaushik Das
 👋 Hello there! I'm Kaushik Das, a passionate coder and Computer Science Engineering student at Meghnad Saha Institute of Technology.
 
 🔭 I'm currently exploring the world of programming and sharpening my skills in Python, C, HTML, and CSS.
